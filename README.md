@@ -1,4 +1,4 @@
-# Program-SVM-dengan-Dataset-WIN
+# Program-SVM-dengan-Dataset-WINE
 # Abib Raifmuaffah Ihwan
 # F551 21 043
 # Cara Menjalankan :
